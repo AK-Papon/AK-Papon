@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ⚡ Md. Ahosan Kobir Papon (Ehshan)
+# ⚡ Md. Ahosan Kobir Papon
 ### 💻 Software Engineer & Tech Architect
 
 <p align="center">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🌌 Overview
-I am a programmer focused on performance optimization, software architecture, and system customization. This profile serves as my live portfolio and real-time development backup hub.
+I am a programmer focused on performance optimization, Android Kernel Development with optimising. This profile serves as my live portfolio and real-time development backup hub.
 
 *   🛠️ **Operating Systems:** Dual-booting **Windows 11** & **Linux** for maximum workflow flexibility.
 *   🔋 **Hardware Ecosystem:** Optimizing hardware-software synergy, custom rig setups, and device diagnostics.
